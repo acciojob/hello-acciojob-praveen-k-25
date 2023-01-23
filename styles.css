@@ -1,7 +1,9 @@
 main{
 	width:150px;
+	height:150px;
 	padding:10px;
+	margin-left:32px;
 	background-color:black;
 	color:white;
-	margin-left:32px;
+
 }
