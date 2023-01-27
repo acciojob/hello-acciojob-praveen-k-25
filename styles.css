@@ -1,4 +1,6 @@
-p{
+main{
+	width:150px;
+	height:150px;
 	padding:10px;
 	color:white;
 	margin-left:32px;
